@@ -1,448 +1,70 @@
-* Assume core retains 40% of miners
-Minutes per block after the fork: 25.0
-Best recovery if fork is at block 1714 of the 2 week difficulty window -- 85.0% through the window
-** Fork 85% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 5.2
-Minutes per block after first difficulty adjustment: 20.4
-Weeks until recovery postfork: 4.832
-Worst recovery if fork is at block 0 of the 2 week difficulty window -- 0.0% through the window
-** Fork 0% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 35.0
-Minutes per block after first difficulty adjustment: 10.0
-Weeks until recovery postfork: 7.000
-** Fork 75% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 8.8
-Minutes per block after first difficulty adjustment: 18.2
-Weeks until recovery postfork: 4.886
-** Fork 76% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 8.4
-Minutes per block after first difficulty adjustment: 18.4
-Weeks until recovery postfork: 4.876
-** Fork 77% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 8.0
-Minutes per block after first difficulty adjustment: 18.6
-Weeks until recovery postfork: 4.867
-** Fork 78% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 7.7
-Minutes per block after first difficulty adjustment: 18.8
-Weeks until recovery postfork: 4.859
-** Fork 79% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 7.3
-Minutes per block after first difficulty adjustment: 19.0
-Weeks until recovery postfork: 4.852
-** Fork 80% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 7.0
-Minutes per block after first difficulty adjustment: 19.2
-Weeks until recovery postfork: 4.846
-** Fork 81% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 6.6
-Minutes per block after first difficulty adjustment: 19.5
-Weeks until recovery postfork: 4.841
-** Fork 82% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 6.3
-Minutes per block after first difficulty adjustment: 19.7
-Weeks until recovery postfork: 4.837
-** Fork 83% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 6.0
-Minutes per block after first difficulty adjustment: 19.9
-Weeks until recovery postfork: 4.834
-** Fork 84% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 5.6
-Minutes per block after first difficulty adjustment: 20.2
-Weeks until recovery postfork: 4.832
-** Fork 85% through period with core retaining 40% of miners
-Days until next difficulty adjustment: 5.3
-Minutes per block after first difficulty adjustment: 20.4
-Weeks until recovery postfork: 4.832
-* Assume core retains 35% of miners
-Minutes per block after the fork: 28.6
-Best recovery if fork is at block 1622 of the 2 week difficulty window -- 80.5% through the window
-** Fork 80% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 7.8
-Minutes per block after first difficulty adjustment: 21.0
-Weeks until recovery postfork: 5.309
-Worst recovery if fork is at block 0 of the 2 week difficulty window -- 0.0% through the window
-** Fork 0% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 40.0
-Minutes per block after first difficulty adjustment: 10.0
-Weeks until recovery postfork: 7.714
-** Fork 75% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 10.0
-Minutes per block after first difficulty adjustment: 19.5
-Weeks until recovery postfork: 5.331
-** Fork 76% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 9.6
-Minutes per block after first difficulty adjustment: 19.8
-Weeks until recovery postfork: 5.324
-** Fork 77% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 9.2
-Minutes per block after first difficulty adjustment: 20.0
-Weeks until recovery postfork: 5.318
-** Fork 78% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 8.8
-Minutes per block after first difficulty adjustment: 20.3
-Weeks until recovery postfork: 5.314
-** Fork 79% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 8.4
-Minutes per block after first difficulty adjustment: 20.6
-Weeks until recovery postfork: 5.311
-** Fork 80% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 8.0
-Minutes per block after first difficulty adjustment: 20.8
-Weeks until recovery postfork: 5.310
-** Fork 81% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 7.6
-Minutes per block after first difficulty adjustment: 21.1
-Weeks until recovery postfork: 5.310
-** Fork 82% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 7.2
-Minutes per block after first difficulty adjustment: 21.4
-Weeks until recovery postfork: 5.311
-** Fork 83% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 6.8
-Minutes per block after first difficulty adjustment: 21.7
-Weeks until recovery postfork: 5.315
-** Fork 84% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 6.4
-Minutes per block after first difficulty adjustment: 22.0
-Weeks until recovery postfork: 5.320
-** Fork 85% through period with core retaining 35% of miners
-Days until next difficulty adjustment: 6.0
-Minutes per block after first difficulty adjustment: 22.3
-Weeks until recovery postfork: 5.326
-* Assume core retains 30% of miners
-Minutes per block after the fork: 33.3
-Best recovery if fork is at block 1560 of the 2 week difficulty window -- 77.4% through the window
-** Fork 77% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 10.6
-Minutes per block after first difficulty adjustment: 21.8
-Weeks until recovery postfork: 5.872
-Worst recovery if fork is at block 0 of the 2 week difficulty window -- 0.0% through the window
-** Fork 0% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 46.7
-Minutes per block after first difficulty adjustment: 10.0
-Weeks until recovery postfork: 8.667
-** Fork 75% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 11.7
-Minutes per block after first difficulty adjustment: 21.1
-Weeks until recovery postfork: 5.877
-** Fork 76% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 11.2
-Minutes per block after first difficulty adjustment: 21.4
-Weeks until recovery postfork: 5.874
-** Fork 77% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 10.7
-Minutes per block after first difficulty adjustment: 21.7
-Weeks until recovery postfork: 5.872
-** Fork 78% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 10.3
-Minutes per block after first difficulty adjustment: 22.0
-Weeks until recovery postfork: 5.872
-** Fork 79% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 9.8
-Minutes per block after first difficulty adjustment: 22.4
-Weeks until recovery postfork: 5.874
-** Fork 80% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 9.3
-Minutes per block after first difficulty adjustment: 22.7
-Weeks until recovery postfork: 5.879
-** Fork 81% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 8.9
-Minutes per block after first difficulty adjustment: 23.1
-Weeks until recovery postfork: 5.886
-** Fork 82% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 8.4
-Minutes per block after first difficulty adjustment: 23.5
-Weeks until recovery postfork: 5.895
-** Fork 83% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 7.9
-Minutes per block after first difficulty adjustment: 23.9
-Weeks until recovery postfork: 5.907
-** Fork 84% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 7.5
-Minutes per block after first difficulty adjustment: 24.3
-Weeks until recovery postfork: 5.921
-** Fork 85% through period with core retaining 30% of miners
-Days until next difficulty adjustment: 7.0
-Minutes per block after first difficulty adjustment: 24.7
-Weeks until recovery postfork: 5.938
+
 * Assume core retains 25% of miners
 Minutes per block after the fork: 40.0
-Best recovery if fork is at block 1524 of the 2 week difficulty window -- 75.6% through the window
-** Fork 76% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 13.7
-Minutes per block after first difficulty adjustment: 23.1
-Weeks until recovery postfork: 6.571
-Worst recovery if fork is at block 0 of the 2 week difficulty window -- 0.0% through the window
-** Fork 0% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 56.0
-Minutes per block after first difficulty adjustment: 10.0
-Weeks until recovery postfork: 10.000
+(To Amber) Best recovery if fork is at block 1792 of the 2 week difficulty window -- 88.9% through the window
+** Fork 89% through period with core retaining 25% of miners
+Until next difficulty adjustment: 6.2 days (0.9 weeks)
+Minutes per block after first difficulty adjustment: 30.0
+(To Yellow) Best recovery if fork is at block 1343 of the 2 week difficulty window -- 66.6% through the window
+** Fork 67% through period with core retaining 25% of miners
+Until next difficulty adjustment: 18.7 days (2.7 weeks)
+Minutes per block after first difficulty adjustment: 20.0
 ** Fork 75% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 14.0
+Until next difficulty adjustment: 14.0 days (2.0 weeks)
 Minutes per block after first difficulty adjustment: 22.9
-Weeks until recovery postfork: 6.571
-** Fork 76% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 13.4
-Minutes per block after first difficulty adjustment: 23.3
-Weeks until recovery postfork: 6.571
-** Fork 77% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 12.9
-Minutes per block after first difficulty adjustment: 23.7
-Weeks until recovery postfork: 6.574
-** Fork 78% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 12.3
-Minutes per block after first difficulty adjustment: 24.1
-Weeks until recovery postfork: 6.579
-** Fork 79% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 11.8
-Minutes per block after first difficulty adjustment: 24.5
-Weeks until recovery postfork: 6.588
-** Fork 80% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 11.2
-Minutes per block after first difficulty adjustment: 25.0
-Weeks until recovery postfork: 6.600
-** Fork 81% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 10.6
-Minutes per block after first difficulty adjustment: 25.5
-Weeks until recovery postfork: 6.616
-** Fork 82% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 10.1
-Minutes per block after first difficulty adjustment: 26.0
-Weeks until recovery postfork: 6.635
-** Fork 83% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 9.5
-Minutes per block after first difficulty adjustment: 26.5
-Weeks until recovery postfork: 6.658
-** Fork 84% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 9.0
-Minutes per block after first difficulty adjustment: 27.0
-Weeks until recovery postfork: 6.685
-** Fork 85% through period with core retaining 25% of miners
-Days until next difficulty adjustment: 8.4
-Minutes per block after first difficulty adjustment: 27.6
-Weeks until recovery postfork: 6.717
+
 * Assume core retains 20% of miners
 Minutes per block after the fork: 50.0
-Best recovery if fork is at block 1512 of the 2 week difficulty window -- 75.0% through the window
-** Fork 75% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 17.5
-Minutes per block after first difficulty adjustment: 25.0
-Weeks until recovery postfork: 7.500
-Worst recovery if fork is at block 0 of the 2 week difficulty window -- 0.0% through the window
-** Fork 0% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 70.0
-Minutes per block after first difficulty adjustment: 10.0
-Weeks until recovery postfork: 12.000
-** Fork 75% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 17.5
-Minutes per block after first difficulty adjustment: 25.0
-Weeks until recovery postfork: 7.500
-** Fork 76% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 16.8
-Minutes per block after first difficulty adjustment: 25.5
-Weeks until recovery postfork: 7.502
-** Fork 77% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 16.1
-Minutes per block after first difficulty adjustment: 26.0
-Weeks until recovery postfork: 7.508
-** Fork 78% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 15.4
-Minutes per block after first difficulty adjustment: 26.6
-Weeks until recovery postfork: 7.519
-** Fork 79% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 14.7
-Minutes per block after first difficulty adjustment: 27.2
-Weeks until recovery postfork: 7.535
-** Fork 80% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 14.0
-Minutes per block after first difficulty adjustment: 27.8
-Weeks until recovery postfork: 7.556
-** Fork 81% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 13.3
-Minutes per block after first difficulty adjustment: 28.4
-Weeks until recovery postfork: 7.582
-** Fork 82% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 12.6
-Minutes per block after first difficulty adjustment: 29.1
-Weeks until recovery postfork: 7.614
+(To Amber) Best recovery if fork is at block 1679 of the 2 week difficulty window -- 83.3% through the window
 ** Fork 83% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 11.9
-Minutes per block after first difficulty adjustment: 29.8
-Weeks until recovery postfork: 7.652
-** Fork 84% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 11.2
-Minutes per block after first difficulty adjustment: 30.5
-Weeks until recovery postfork: 7.698
-** Fork 85% through period with core retaining 20% of miners
-Days until next difficulty adjustment: 10.5
-Minutes per block after first difficulty adjustment: 31.2
-Weeks until recovery postfork: 7.750
+Until next difficulty adjustment: 11.7 days (1.7 weeks)
+Minutes per block after first difficulty adjustment: 30.0
+(To Yellow) Best recovery if fork is at block 1259 of the 2 week difficulty window -- 62.5% through the window
+** Fork 62% through period with core retaining 20% of miners
+Until next difficulty adjustment: 26.3 days (3.8 weeks)
+Minutes per block after first difficulty adjustment: 20.0
+** Fork 75% through period with core retaining 20% of miners
+Until next difficulty adjustment: 17.5 days (2.5 weeks)
+Minutes per block after first difficulty adjustment: 25.0
+
 * Assume core retains 15% of miners
 Minutes per block after the fork: 66.7
-Best recovery if fork is at block 1525 of the 2 week difficulty window -- 75.6% through the window
-** Fork 76% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 22.7
-Minutes per block after first difficulty adjustment: 28.0
-Weeks until recovery postfork: 8.849
-Worst recovery if fork is at block 0 of the 2 week difficulty window -- 0.0% through the window
-** Fork 0% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 93.3
-Minutes per block after first difficulty adjustment: 10.0
-Weeks until recovery postfork: 15.333
-** Fork 75% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 23.3
-Minutes per block after first difficulty adjustment: 27.6
-Weeks until recovery postfork: 8.851
-** Fork 76% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 22.4
-Minutes per block after first difficulty adjustment: 28.2
-Weeks until recovery postfork: 8.850
-** Fork 77% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 21.5
-Minutes per block after first difficulty adjustment: 28.9
-Weeks until recovery postfork: 8.855
+(To Amber) Best recovery if fork is at block 1581 of the 2 week difficulty window -- 78.4% through the window
 ** Fork 78% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 20.5
-Minutes per block after first difficulty adjustment: 29.7
-Weeks until recovery postfork: 8.868
-** Fork 79% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 19.6
-Minutes per block after first difficulty adjustment: 30.4
-Weeks until recovery postfork: 8.888
-** Fork 80% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 18.7
-Minutes per block after first difficulty adjustment: 31.3
-Weeks until recovery postfork: 8.917
-** Fork 81% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 17.7
-Minutes per block after first difficulty adjustment: 32.1
-Weeks until recovery postfork: 8.954
-** Fork 82% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 16.8
-Minutes per block after first difficulty adjustment: 33.0
-Weeks until recovery postfork: 9.001
-** Fork 83% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 15.9
-Minutes per block after first difficulty adjustment: 34.0
-Weeks until recovery postfork: 9.058
-** Fork 84% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 14.9
-Minutes per block after first difficulty adjustment: 35.0
-Weeks until recovery postfork: 9.126
-** Fork 85% through period with core retaining 15% of miners
-Days until next difficulty adjustment: 14.0
-Minutes per block after first difficulty adjustment: 36.0
-Weeks until recovery postfork: 9.207
+Until next difficulty adjustment: 20.1 days (2.9 weeks)
+Minutes per block after first difficulty adjustment: 30.0
+(To Yellow) Best recovery if fork is at block 1185 of the 2 week difficulty window -- 58.8% through the window
+** Fork 59% through period with core retaining 15% of miners
+Until next difficulty adjustment: 38.5 days (5.5 weeks)
+Minutes per block after first difficulty adjustment: 20.0
+** Fork 75% through period with core retaining 15% of miners
+Until next difficulty adjustment: 23.3 days (3.3 weeks)
+Minutes per block after first difficulty adjustment: 27.6
+
 * Assume core retains 10% of miners
 Minutes per block after the fork: 100.0
-Best recovery if fork is at block 1568 of the 2 week difficulty window -- 77.8% through the window
-** Fork 78% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 31.1
-Minutes per block after first difficulty adjustment: 33.3
-Weeks until recovery postfork: 11.111
-Worst recovery if fork is at block 0 of the 2 week difficulty window -- 0.0% through the window
-** Fork 0% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 140.0
-Minutes per block after first difficulty adjustment: 10.0
-Weeks until recovery postfork: 22.000
+(To Amber) Best recovery if fork is at block 1493 of the 2 week difficulty window -- 74.1% through the window
+** Fork 74% through period with core retaining 10% of miners
+Until next difficulty adjustment: 36.3 days (5.2 weeks)
+Minutes per block after first difficulty adjustment: 30.0
+(To Yellow) Best recovery if fork is at block 1119 of the 2 week difficulty window -- 55.5% through the window
+** Fork 56% through period with core retaining 10% of miners
+Until next difficulty adjustment: 62.3 days (8.9 weeks)
+Minutes per block after first difficulty adjustment: 20.0
 ** Fork 75% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 35.0
+Until next difficulty adjustment: 35.0 days (5.0 weeks)
 Minutes per block after first difficulty adjustment: 30.8
-Weeks until recovery postfork: 11.154
-** Fork 76% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 33.6
-Minutes per block after first difficulty adjustment: 31.6
-Weeks until recovery postfork: 11.129
-** Fork 77% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 32.2
-Minutes per block after first difficulty adjustment: 32.6
-Weeks until recovery postfork: 11.115
-** Fork 78% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 30.8
-Minutes per block after first difficulty adjustment: 33.6
-Weeks until recovery postfork: 11.111
-** Fork 79% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 29.4
-Minutes per block after first difficulty adjustment: 34.6
-Weeks until recovery postfork: 11.120
-** Fork 80% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 28.0
-Minutes per block after first difficulty adjustment: 35.7
-Weeks until recovery postfork: 11.143
-** Fork 81% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 26.6
-Minutes per block after first difficulty adjustment: 36.9
-Weeks until recovery postfork: 11.180
-** Fork 82% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 25.2
-Minutes per block after first difficulty adjustment: 38.2
-Weeks until recovery postfork: 11.234
-** Fork 83% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 23.8
-Minutes per block after first difficulty adjustment: 39.5
-Weeks until recovery postfork: 11.305
-** Fork 84% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 22.4
-Minutes per block after first difficulty adjustment: 41.0
-Weeks until recovery postfork: 11.397
-** Fork 85% through period with core retaining 10% of miners
-Days until next difficulty adjustment: 21.0
-Minutes per block after first difficulty adjustment: 42.6
-Weeks until recovery postfork: 11.511
+
 * Assume core retains 5% of miners
 Minutes per block after the fork: 200.0
-Best recovery if fork is at block 1660 of the 2 week difficulty window -- 82.3% through the window
-** Fork 82% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 49.4
-Minutes per block after first difficulty adjustment: 45.9
-Weeks until recovery postfork: 16.248
-Worst recovery if fork is at block 0 of the 2 week difficulty window -- 0.0% through the window
-** Fork 0% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 280.0
-Minutes per block after first difficulty adjustment: 10.0
-Weeks until recovery postfork: 42.000
+(To Amber) Best recovery if fork is at block 1414 of the 2 week difficulty window -- 70.1% through the window
+** Fork 70% through period with core retaining 5% of miners
+Until next difficulty adjustment: 83.6 days (11.9 weeks)
+Minutes per block after first difficulty adjustment: 30.0
+(To Yellow) Best recovery if fork is at block 1061 of the 2 week difficulty window -- 52.6% through the window
+** Fork 53% through period with core retaining 5% of miners
+Until next difficulty adjustment: 132.6 days (18.9 weeks)
+Minutes per block after first difficulty adjustment: 20.0
 ** Fork 75% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 70.0
+Until next difficulty adjustment: 70.0 days (10.0 weeks)
 Minutes per block after first difficulty adjustment: 34.8
-Weeks until recovery postfork: 16.957
-** Fork 76% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 67.2
-Minutes per block after first difficulty adjustment: 36.0
-Weeks until recovery postfork: 16.794
-** Fork 77% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 64.4
-Minutes per block after first difficulty adjustment: 37.2
-Weeks until recovery postfork: 16.649
-** Fork 78% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 61.6
-Minutes per block after first difficulty adjustment: 38.6
-Weeks until recovery postfork: 16.522
-** Fork 79% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 58.8
-Minutes per block after first difficulty adjustment: 40.1
-Weeks until recovery postfork: 16.416
-** Fork 80% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 56.0
-Minutes per block after first difficulty adjustment: 41.7
-Weeks until recovery postfork: 16.333
-** Fork 81% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 53.2
-Minutes per block after first difficulty adjustment: 43.4
-Weeks until recovery postfork: 16.277
-** Fork 82% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 50.4
-Minutes per block after first difficulty adjustment: 45.2
-Weeks until recovery postfork: 16.250
-** Fork 83% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 47.6
-Minutes per block after first difficulty adjustment: 47.3
-Weeks until recovery postfork: 16.256
-** Fork 84% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 44.8
-Minutes per block after first difficulty adjustment: 49.5
-Weeks until recovery postfork: 16.301
-** Fork 85% through period with core retaining 5% of miners
-Days until next difficulty adjustment: 42.0
-Minutes per block after first difficulty adjustment: 51.9
-Weeks until recovery postfork: 16.390
